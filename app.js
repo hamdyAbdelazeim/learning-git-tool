@@ -13,3 +13,6 @@ console.log(ourCode)
 // let and const
 let ourName = 'Hammy'
 console.log(ourName)
+// adding males
+let addingMales = 'Hammy'
+console.log(addingMales)
